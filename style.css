@@ -1,0 +1,40 @@
+.sec-1{
+    background-color:#264653;
+    margin-bottom: 64px;
+}
+.sec-2{
+    margin-bottom: 160px;
+}
+.sec-3{
+    margin-bottom: 160px;
+}
+.sec-4{
+    margin-bottom:159px;
+}
+.butt-color{
+    background-color:#E76F51;
+}
+.sec-1-img{
+    width:552px;
+    height:447px;
+}
+.grayscale{
+    filter:grayscale(100%);
+}
+.text-color-orange{
+    color:#E76F51;
+}
+.fa-star{
+    color:#E77C40;
+}
+.fa-motorcycle{
+    color:#E76F51;
+}
+.list-group a:hover .fa-motorcycle{
+    color: white;
+}
+.list-group a:hover {
+    background-color:#E76F51;
+    color: white;
+}
+
